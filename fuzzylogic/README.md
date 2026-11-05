@@ -21,4 +21,4 @@ This program attempts to calculate optimal cooling power using fuzzy logic so th
 but also for as long as possible by reducing its power the closer its container is to filling up.
 
 # Example image of running program
-![example image](example.png)
+![example image](example.PNG)
