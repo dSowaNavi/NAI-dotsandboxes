@@ -1,11 +1,10 @@
 # Authors s24589 and s31893
 
-To run this program install:
-- pip install tkinter
-- pip install skfuzzy
-- pip install numpy
+To run this program install dependencies by running:
+python -m pip install numpy scikit-fuzzy networkx
 
-then run main.py
+then 
+python main.py
 
 ---
 # Description
