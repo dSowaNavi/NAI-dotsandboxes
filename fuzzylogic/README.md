@@ -1,9 +1,9 @@
 # Authors s24589 and s31893
 
 To run this program install:
-pip install tkinter
-pip install skfuzzy
-pip install numpy
+- pip install tkinter
+- pip install skfuzzy
+- pip install numpy
 
 then run main.py
 
